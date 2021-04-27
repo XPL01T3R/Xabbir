@@ -38,4 +38,6 @@ $ cd xabbir
 
 $ python2 xabbir.py
 
+# Screenshot
+![Screenshot_20210427-173350_1](https://user-images.githubusercontent.com/68107213/116238366-1207fd80-a783-11eb-97a5-b194b3e85241.png)
 
